@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="34.1313mm" height="25mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 74 54"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+    <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="-0" y1="23.8445" x2="74.062" y2="23.8445">
+     <stop offset="0" stop-opacity="1" stop-color="#FCEB08"/>
+     <stop offset="1" stop-opacity="1" stop-color="black"/>
+    </linearGradient>
+    <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="-0" y1="30.4031" x2="74.062" y2="30.4031">
+     <stop offset="0" stop-opacity="1" stop-color="#FCEB08"/>
+     <stop offset="1" stop-opacity="1" stop-color="black"/>
+    </linearGradient>
+ </defs>
+ <g id="Katman_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2222595586032">
+   <rect fill="url(#id0)" y="21" width="74.062" height="5.35839" rx="4" ry="4"/>
+   <rect fill="url(#id1)" y="28" width="74.062" height="5.35839" rx="4" ry="4"/>
+  </g>
+  <rect fill="none" width="74.0613" height="54.2479"/>
+ </g>
+</svg>

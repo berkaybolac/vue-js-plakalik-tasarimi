@@ -1,0 +1,31 @@
+
+
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0" y="0" width="53.266mm" height="20mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 53 20"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#31B1DE}
+    .fil1 {fill:#3657CB}
+    .fil2 {fill:#C63646}
+    .fil3 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="38.5117" y1="19.9998" x2="38.5117" y2="-0.0001">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C5C6C6"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#C5C6C6"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2955601836288">
+   <polygon class="fil0" points="11,0 18,0 7,20 0,20 "/>
+   <polygon class="fil1" points="18,0 26,0 14,20 7,20 "/>
+   <polygon class="fil2" points="26,0 33,0 22,20 14,20 "/>
+   <polygon class="fil3" points="35,0 42,0 42,7 46,0 53,0 53,20 46,20 46,12 42,20 35,20 35,13 31,20 24,20 "/>
+  </g>
+ </g>
+</svg>

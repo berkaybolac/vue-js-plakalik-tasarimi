@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0" y="0" width="25mm" height="25mm" version="1.1"
+        style="
+        shape-rendering:geometricPrecision;
+        text-rendering:geometricPrecision;
+        image-rendering:optimizeQuality;
+        fill-rule:evenodd;
+        clip-rule:evenodd"
+        viewBox="0 0 2800 2800"
+        xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="id0123" gradientUnits="userSpaceOnUse" x1="2890" y1="539" x2="-91" y2="2260">
+   <stop offset="0%" style="position:abloute;stop-color:#B6559A"/>
+   <stop offset="33%" style="position:abloute;stop-color:#E31E24"/>
+   <stop offset="100%" style="position:abloute;stop-color:#EF7F1A"/>
+  </linearGradient>
+ </defs>
+ <g>
+ <path fill="url('#id0123')" d="M2023 2800l-1246 0c-430,0 -777,-348 -777,-777l0 -1246c0,-430 348,-777 777,-777l1246 0c430,0 777,348 777,777l0 1246c0,430 -348,777 -777,777zm-623 -2028c-348,0 -628,280 -628,628 0,348 280,628 628,628 348,0 628,-280 628,-628 0,-348 -280,-628 -628,-628zm0 1062c-232,0 -434,-203 -434,-434 0,-232 203,-434 434,-434 232,0 434,203 434,434 0,232 -203,434 -434,434zm628 -1545l-1255 0c-266,0 -483,217 -483,483l0 1255c0,266 217,483 483,483l1255 0c266,0 483,-217 483,-483l0 -1255c0,-266 -217,-483 -483,-483l0 0zm290 1757c0,150 -121,270 -270,270l-1294 0c-150,0 -270,-121 -270,-270l0 -1294c0,-150 121,-270 270,-270l1294 0c150,0 270,121 270,270l0 1294zm-193 -1274c0,-53 -43,-97 -97,-97 -53,0 -97,43 -97,97 0,53 43,97 97,97 53,0 97,-43 97,-97z"/>
+ </g>
+</svg>

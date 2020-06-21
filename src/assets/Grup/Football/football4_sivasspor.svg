@@ -1,0 +1,25 @@
+
+
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="34.1313mm" height="25mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 98 71"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+    <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="-0" y1="31.3948" x2="97.5134" y2="31.3948">
+     <stop offset="0" stop-opacity="1" stop-color="white"/>
+     <stop offset="1" stop-opacity="1" stop-color="black"/>
+    </linearGradient>
+    <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="-0" y1="40.0301" x2="97.5134" y2="40.0301">
+     <stop offset="0" stop-opacity="1" stop-color="#DB1F29"/>
+     <stop offset="1" stop-opacity="1" stop-color="black"/>
+    </linearGradient>
+ </defs>
+ <g id="Katman_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2187318454752">
+   <rect fill="url(#id0)" y="28" width="97.5134" height="7.05509" rx="6" ry="6"/>
+   <rect fill="url(#id1)" y="37" width="97.5134" height="7.05509" rx="6" ry="6"/>
+  </g>
+  <rect fill="none" width="97.5125" height="71.4252"/>
+ </g>
+</svg>

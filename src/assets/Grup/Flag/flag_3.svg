@@ -1,0 +1,24 @@
+
+
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" xml:space="preserve" width="28.746mm" height="25mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 2875 2500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ enable-background="new 0 0 1400 980">
+ <defs>
+    <radialGradient id="id02345" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.06169 1.00452 -1.00452 1.06169 984 -1626)" cx="1552.28" cy="1075" r="5316.16" fx="1552.28" fy="1075">
+     <stop offset="0" stop-opacity="1" stop-color="#E31E24"/>
+     <stop offset="1" stop-opacity="1" stop-color="#AC2D2E"/>
+    </radialGradient>
+ </defs>
+ <g id="Katman_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2468389988608">
+   <path fill="url(#id02345)" d="M1446 413c397,-831 1865,-308 1302,680 -239,453 -859,931 -1904,1407 0,0 81,-488 -145,-741 -133,-270 -931,-658 -633,-1363 307,-610 1265,-431 1380,17z"/>
+   <g>
+    <path fill="#FEFEFE" d="M1381 610c185,0 348,93 446,235 -77,-76 -183,-123 -300,-123 -236,0 -428,192 -428,429 0,236 192,428 428,428 117,0 223,-47 300,-122 -98,141 -261,235 -446,235 -299,0 -541,-243 -541,-541 0,-299 242,-541 541,-541z"/>
+    <polygon fill="#FEFEFE" points="1866,1006 1930,1093 2033,1059 1970,1147 2035,1234 1931,1201 1868,1290 1868,1181 1764,1149 1867,1115 "/>
+   </g>
+  </g>
+ </g>
+</svg>

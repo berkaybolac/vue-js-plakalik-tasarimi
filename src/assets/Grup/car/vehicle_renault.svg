@@ -1,0 +1,64 @@
+
+
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0" y="0" width="25mm" height="25mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 2500 2500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ enable-background="new 0 0 24 24">
+ <defs>
+   <clipPath id="id0" clip-rule="nonzero">
+    <rect x="-12756" y="784" width="1109" height="1778"/>
+   </clipPath>
+    <radialGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.7472 -2.1397E-16 2.14186E-16 -1.74896 5774 1153)" cx="2101.72" cy="419.41" r="992.56" fx="2101.72" fy="419.41">
+     <stop offset="0" stop-opacity="1" stop-color="#FEFEFE"/>
+     <stop offset="1" stop-opacity="1" stop-color="#D9DADA"/>
+    </radialGradient>
+    <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="1780.53" y1="711.75" x2="1149.19" y2="1090.17">
+     <stop offset="0" stop-opacity="1" stop-color="#2B2A29"/>
+     <stop offset="1" stop-opacity="1" stop-color="#727271"/>
+    </linearGradient>
+    <radialGradient id="id3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.7472 -0 -0 1.74896 -1036 -314)" cx="1387.13" cy="419.41" r="992.56" fx="1387.13" fy="419.41">
+     <stop offset="0" stop-opacity="1" stop-color="#FEFEFE"/>
+     <stop offset="1" stop-opacity="1" stop-color="#D9DADA"/>
+    </radialGradient>
+    <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="1069.54" y1="1287.6" x2="1256.65" y2="25.82">
+     <stop offset="0" stop-opacity="1" stop-color="#9D9E9E"/>
+     <stop offset="1" stop-opacity="1" stop-color="#D9DADA"/>
+    </linearGradient>
+    <radialGradient id="id5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.7472 -0 -0 1.74896 -1036 -1203)" cx="1387.13" cy="1605.97" r="992.56" fx="1387.13" fy="1605.97">
+     <stop offset="0" stop-opacity="1" stop-color="#D9DADA"/>
+     <stop offset="1" stop-opacity="1" stop-color="#898989"/>
+    </radialGradient>
+    <radialGradient id="id6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.1184 -1.36964E-16 1.37102E-16 -1.11952 1821 3685)" cx="859.4" cy="1738.65" r="576.72" fx="859.4" fy="1738.65">
+     <stop offset="0" stop-opacity="1" stop-color="#FEFEFE"/>
+     <stop offset="1" stop-opacity="1" stop-color="#D9DADA"/>
+    </radialGradient>
+    <radialGradient id="id7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.7472 -0 -0 1.74896 -1570 -1203)" cx="2101.72" cy="1605.97" r="992.56" fx="2101.72" fy="1605.97">
+     <stop offset="0" stop-opacity="1" stop-color="#EBECEC"/>
+     <stop offset="1" stop-opacity="1" stop-color="#B2B3B3"/>
+    </radialGradient>
+    <linearGradient id="id8" gradientUnits="userSpaceOnUse" x1="819.29" y1="2153.54" x2="1854.54" y2="1533.02">
+     <stop offset="0" stop-opacity="1" stop-color="#2B2A29"/>
+     <stop offset="1" stop-opacity="1" stop-color="#727271"/>
+    </linearGradient>
+ </defs>
+ <g id="Katman_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g clip-path="url(#id0)">
+   <image x="-12756" y="784" width="1109" height="1778" xlink:href="vehicle_renault_Images\vehicle_renault_ImgID1.png"/>
+  </g>
+  <rect fill="none" width="2500" height="2500"/>
+  <rect fill="white" x="6474" y="1005" width="6800" height="6800"/>
+  <g id="_1874585322288">
+   <path fill="#FEFEFE" d="M982 50l536 0 723 1200 -723 1200 -536 0 -723 -1200 723 -1200zm263 643l-322 557 332 557 322 -557 -332 -557z"/>
+   <polygon fill="url(#id1)" points="1511,63 989,63 1685,1250 2225,1250 "/>
+   <polygon fill="url(#id2)" points="1262,552 1685,1250 1593,1250 1245,666 "/>
+   <polygon fill="url(#id3)" points="989,63 1511,63 815,1250 275,1250 "/>
+   <polygon fill="url(#id4)" points="1511,63 815,1250 907,1250 1245,666 1262,552 "/>
+   <polygon fill="url(#id5)" points="989,2437 1511,2437 815,1250 275,1250 "/>
+   <polygon fill="url(#id6)" points="1238,1948 815,1250 907,1250 1255,1834 "/>
+   <polygon fill="url(#id7)" points="1511,2437 989,2437 1685,1250 2225,1250 "/>
+   <polygon fill="url(#id8)" points="989,2437 1685,1250 1593,1250 1255,1834 1238,1948 "/>
+  </g>
+ </g>
+</svg>

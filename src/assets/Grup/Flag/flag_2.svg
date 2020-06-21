@@ -1,0 +1,51 @@
+
+
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0" y="0" width="25mm" height="25mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 792 792"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+    <clipPath id="id0">
+     <path d="M396 674c139,0 255,-102 275,-236l0 0c-20,134 -136,236 -275,236zm277 -248l0 0c1,-9 2,-20 2,-30 0,10 -1,21 -2,30z"/>
+    </clipPath>
+    <clipPath id="id1">
+     <path d="M396 674c139,0 255,-102 275,-236l0 0c-20,134 -136,236 -275,236zm277 -248l0 0c1,-9 2,-20 2,-30 0,10 -1,21 -2,30z"/>
+    </clipPath>
+    <clipPath id="id2">
+     <path d="M396 674c139,0 255,-102 275,-236l0 0c-20,134 -136,236 -275,236zm277 -248l0 0c1,-9 2,-20 2,-30 0,10 -1,21 -2,30z"/>
+    </clipPath>
+ </defs>
+ <g id="Katman_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3032696410544">
+   <path fill="#E31E25" d="M713 396c0,175 -142,317 -317,317 -175,0 -317,-142 -317,-317 0,-175 142,-317 317,-317 175,0 317,142 317,317z"/>
+   <g>
+   </g>
+   <g clip-path="url(#id0)">
+    <g id="_3032698315952">
+     <polygon fill="#1C1B17" fill-opacity="0.000000" points="396,396 675,396 675,674 396,674 "/>
+    </g>
+   </g>
+   <path fill="none" d="M396 674c139,0 255,-102 275,-236l0 0c-20,134 -136,236 -275,236zm277 -248l0 0c1,-9 2,-20 2,-30 0,10 -1,21 -2,30z"/>
+   <g>
+   </g>
+   <g clip-path="url(#id1)">
+    <g>
+    </g>
+   </g>
+   <path fill="none" d="M396 674c139,0 255,-102 275,-236l0 0c-20,134 -136,236 -275,236zm277 -248l0 0c1,-9 2,-20 2,-30 0,10 -1,21 -2,30z"/>
+   <path id="_1" fill="none" d="M396 674c139,0 255,-102 275,-236l0 0c-20,134 -136,236 -275,236zm277 -248l0 0c1,-9 2,-20 2,-30 0,10 -1,21 -2,30z"/>
+   <g>
+   </g>
+   <g clip-path="url(#id2)">
+    <g>
+     <path id="_2" fill="none" stroke="#1C1B17" stroke-width="2.41442" d="M396 396l279 278m0 -278l-279 278"/>
+    </g>
+   </g>
+   <path fill="none" d="M396 674c139,0 255,-102 275,-236l0 0c-20,134 -136,236 -275,236zm277 -248l0 0c1,-9 2,-20 2,-30 0,10 -1,21 -2,30z"/>
+   <path fill="whitesmoke" d="M349 238c56,0 106,29 134,73 -24,-25 -57,-42 -95,-42 -70,0 -127,57 -127,127 0,70 57,127 127,127 38,0 71,-16 95,-42 -28,44 -78,73 -134,73 -88,0 -159,-70 -159,-158 0,-87 71,-158 159,-158z"/>
+   <polygon fill="whitesmoke" points="512,323 546,370 602,352 567,399 601,446 546,428 512,475 512,417 457,399 512,381 "/>
+  </g>
+  <rect fill="none" width="792" height="792"/>
+ </g>
+</svg>

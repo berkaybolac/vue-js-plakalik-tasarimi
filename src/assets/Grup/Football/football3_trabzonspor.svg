@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="58.9802mm" height="25.0413mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+     viewBox="0 0 243 103"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="0.000412192" y1="38.7823" x2="242.661" y2="38.7823">
+    <stop offset="0" stop-opacity="1" stop-color="#2094C2"/>
+    <stop offset="1" stop-opacity="1" stop-color="black"/>
+   </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="0.000412192" y1="63.1586" x2="242.661" y2="63.1586">
+    <stop offset="0" stop-opacity="1" stop-color="#9F2527"/>
+   <stop offset="1" stop-opacity="1" stop-color="black"/>
+   </linearGradient>
+ </defs>
+ <g id="Katman_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect fill="none" width="243" height="103"/>
+ </g>
+ <g id="Katman_x0020_1_0">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <path fill="url(#id0)" d="M14 33l215 0c8,0 14,3 14,6l0 0c0,4 -6,7 -14,7l-215 0c-8,0 -14,-3 -14,-7l0 0c0,-3 6,-6 14,-6z"/>
+  <path fill="url(#id1)" d="M14 58l215 0c8,0 14,2 14,6l0 0c0,3 -6,6 -14,6l-215 0c-8,0 -14,-3 -14,-6l0 0c0,-4 6,-6 14,-6z"/>
+ </g>
+</svg>
